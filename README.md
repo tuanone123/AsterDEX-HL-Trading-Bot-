@@ -176,7 +176,7 @@ Algorithmic trading carries risk. Validate strategies with paper accounts or sma
 ## Contact
 For questions or technical support, please contact:
 Join our Hotlike Trading Community on Telegram:
-https://t.me/hotliketut￼
+https://t.me/hotliketut
 
 Share feedback, discuss strategies, and get help running your bot.
 
