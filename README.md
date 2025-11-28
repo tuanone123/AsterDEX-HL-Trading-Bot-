@@ -4,7 +4,7 @@
 
 A Bun-powered trading workstation for Aster and Hyperliquid perpetual contracts that ships two production-ready agents: an SMA30 trend follower and a dual-sided market maker. The CLI is built with Ink, synchronises risk state from the exchange, and automatically recovers from restarts or disconnects.
 
-* [Aster 30% Fee Discount Referral Link](https://www.asterdex.com/zh-CN/referral/4665f3)
+* [Aster 30% Fee Discount Referral Link]([https://www.asterdex.com/zh-CN/referral/4665f3](https://www.asterdex.com/en/referral/FmBN1g))
 * [GRVT Fee Discount Referral Link](https://grvt.io/exchange/sign-up?ref=sea)
 * [Hyperliquid Fee Discount Referral Link](https://app.hyperliquid.xyz/trade/BTC)
 
